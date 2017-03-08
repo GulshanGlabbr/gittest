@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string-array name="email">
+        <item>gulshanpadhan@gmail.com</item>
+        <item>abcgder@gmail.com</item>
+        <item>ytsafdu@gmail.com</item>
+        <item>sdfygiwhf@hotmail.com</item>
+        <item>techhub@yahoo.com</item>
+        <item>truecl@gmail.com</item>
+        <item>abcgder@gmail.com</item>
+        <item>ytsafdu@gmail.com</item>
+        <item>sdfygiwhf@hotmail.com</item>
+        <item>techhub@yahoo.com</item>
+
+    </string-array>
+    <string-array name="status">
+        <item>Avilable</item>
+        <item>busy</item>
+        <item>At Work</item>
+        <item>At Gym</item>
+        <item>At college</item>
+        <item>sleeping</item>
+        <item>Avilable</item>
+        <item>urgent call</item><item>text only</item>
+        <item>Avilable</item>
+    </string-array>
+</resources>
